@@ -5,17 +5,11 @@ Covid 19 Data Exploration
 Skills used: Joins, CTE's, Temp Tables, Windows Functions, Aggregate Functions, Creating Views, Converting Data Types
 */
 
-SELECT 
-    *
-FROM
-    coviddeaths
+SELECT * FROM coviddeaths
 ORDER BY 3 , 4;
 
 -- Covid deaths vaccinations table
-SELECT 
-    *
-FROM
-    covidvaccinations
+SELECT * FROM covidvaccinations
 ORDER BY 3 , 4;
 
 -- Selecting Data for use from covid deaths table
@@ -221,7 +215,7 @@ From PercentPopulationVaccinated;
 
 -- Creating View to store data for later visualizations
 
-Create View projects.PercentPopVaccinated as
+Create View PercentPopVaccinated as
 Select d.continent, d.location, d.date, d.population, 
 v.new_vaccinations, 
 SUM(v.new_vaccinations) OVER (Partition by d.Location Order by d.location, d.Date) as Vaccinated_People_Rolling
