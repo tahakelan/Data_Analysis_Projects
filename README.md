@@ -1,4 +1,4 @@
-# **Data Analysis Projects**
+# **Data Analysis & Visualization Projects**
 Complilation of SQL, Python, Tableau Projects & assignments completed in pursuit of improving my analytical skills. 
 
 ## Contents
