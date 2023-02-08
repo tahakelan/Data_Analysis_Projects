@@ -8,6 +8,8 @@ The [Movie Industry](https://github.com/tahakelan/Data_Analysis_Projects/blob/46
 - Budget, Gross, Company
 - Runtime and some more details..
 
+The entire analysis & the visualization can be seen [here](https://github.com/tahakelan/Data_Analysis_Projects/blob/ffafbdc73a76286e14e69328da35826c221e49f1/Movies_Correlation_Study/Movie-Correlation-Study.ipynb).
+
 Libraries used here:  `pandas`, `numpy`, `seaborn`
 
 Once we have imported the libraries & have loaded the csv of the dataset, we can start the analysis.
@@ -32,7 +34,6 @@ Once we have imported the libraries & have loaded the csv of the dataset, we can
 
 - We observe that Votes & Budget have the highest correlation to the Gross Earnings
 
-The entire analysis & the visualization can be seen [here](https://github.com/tahakelan/Data_Analysis_Projects/blob/ffafbdc73a76286e14e69328da35826c221e49f1/Movies_Correlation_Study/Movie-Correlation-Study.ipynb).
 
 ---
 
