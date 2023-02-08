@@ -29,3 +29,6 @@ Find Tableau Visualization [here](https://public.tableau.com/app/profile/taha.el
 ---
 
 
+
+*This is a practice project done with the help of [Alex the Analyst](https://www.youtube.com/@AlexTheAnalyst) learning resource*.
+
