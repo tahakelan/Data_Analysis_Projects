@@ -44,7 +44,7 @@ GROUP BY Location , Population
 ORDER BY PercentPopulationInfected DESC;
 
 
--- 4. Location wise: Highest Infection rate wiht date
+-- 4. Location wise: Highest Infection rate with date
 
 
 SELECT 
@@ -65,7 +65,7 @@ ORDER BY PercentPopulationInfected DESC;
 -- More queries
 
 
--- 1. Population that has recieved at least one Covid Vaccine
+-- 1. Population that has received at least one Covid Vaccine
 
 SELECT 
     d.continent,
