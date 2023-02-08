@@ -10,7 +10,7 @@ Covid 19 data exploration study using SQL & Visualization by Tableau to understa
 - Countries with the highest infection rate & death count relative to their population
 - The total population versus vaccinations
 - The percentage of population that has received at least one COVID-19 vaccine
-- The percentage of population that has received at least one COVID-19 vaccine ans so on..
+- Percent of Population Infected & Forecast (Major countries) & some more..
 
 
 ### [Data Analysis with Python Certification Projects from FreeCodeCamp](https://github.com/tahakelan/Data_Analysis_Projects/blob/46203320698441a28390552bf43f6fdcc5c3634a/Data_Analysis_with_Python_FreeCodeCamp)
