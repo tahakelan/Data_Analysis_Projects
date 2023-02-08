@@ -12,7 +12,14 @@ Covid 19 data exploration study using MySQL & Visualization using Tableau to und
 - Percentage of Population Infected & Forecast (Major countries) & some more..
 
 ### [Nashville Housing - Data cleaning](https://github.com/tahakelan/Data_Analysis_Projects/blob/46203320698441a28390552bf43f6fdcc5c3634a/Data_cleaning_Nashville_Housing/Data%20Cleaning%20using%20SQL.sql) 
+Practicing data cleaning using MySQL to:
+- Standardize non-uniform data
+- Split data to ensure ease of use 
+- Handle NULL & Missing values
+- Remove duplicate data
+- Drop unwanted data\
 
+by using SQL Joins, CTEs, Windows Functions & other functions.
 
 
 ### [Movies Data - Correlation Study](https://github.com/tahakelan/Data_Analysis_Projects/blob/46203320698441a28390552bf43f6fdcc5c3634a/Movies_Correlation_Study/Movie-Correlation-Study.ipynb)
