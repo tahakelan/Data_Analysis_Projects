@@ -29,8 +29,7 @@ Practicing data cleaning using MySQL to:
 by using SQL Joins, CTEs, Windows Functions & other functions.
 
 
-## [Movies Dataset Correlation Study](https://github.com/tahakelan/Data_Analysis_Projects/blob/46203320698441a28390552bf43f6fdcc5c3634a/Movies_Correlation_Study/Movie-Correlation-Study.ipynb)
-
+## [Movies Dataset Correlation Study](https://github.com/tahakelan/Data_Analysis_Projects/blob/d2d1325b8918453d5081e33aafb2fdb14d94fb05/Movies_Correlation_Study)
 
 ## [Data Analysis with Python Certification Projects from FreeCodeCamp](https://github.com/tahakelan/Data_Analysis_Projects/blob/46203320698441a28390552bf43f6fdcc5c3634a/Data_Analysis_with_Python_FreeCodeCamp)
 
