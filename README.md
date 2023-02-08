@@ -37,6 +37,12 @@ Dataset used here: Movie Industry from Kaggle. Python Libraries `pandas`, `numpy
 
 
 ## [Data Analysis with Python Certification Projects from FreeCodeCamp](https://github.com/tahakelan/Data_Analysis_Projects/blob/46203320698441a28390552bf43f6fdcc5c3634a/Data_Analysis_with_Python_FreeCodeCamp)
+This folder contains the projects completed for Data Analysis with Python Certification.
+1. [Demographic Data Analyzer](https://github.com/tahakelan/Data_Analysis/blob/edf10519036f5c3fa7a7671879e7b6569e37b027/Data_Analysis_with_Python_FreeCodeCamp/Demographic_Data_Analyzer)
+2. [Mean Variance Standard Deviation Calculator](https://github.com/tahakelan/Data_Analysis/blob/7e9490157a8032b9d09a3181993e774060b3a0f0/Data_Analysis_with_Python_FreeCodeCamp/Mean_Variance_Standard_Deviation_Calculator)
+3.  [Medical Data Visualizer](https://github.com/tahakelan/Data_Analysis/blob/7e9490157a8032b9d09a3181993e774060b3a0f0/Data_Analysis_with_Python_FreeCodeCamp/Medical_Data_Visualizer)
+4.  [Page View Time Series Visualizer](https://github.com/tahakelan/Data_Analysis/blob/7e9490157a8032b9d09a3181993e774060b3a0f0/Data_Analysis_with_Python_FreeCodeCamp/Page_View_Time_Series_Visualizer)
+5.  [Sea Level Predictor](https://github.com/tahakelan/Data_Analysis/blob/7e9490157a8032b9d09a3181993e774060b3a0f0/Data_Analysis_with_Python_FreeCodeCamp/Sea_Level_Predictor)
 
 
 
