@@ -14,7 +14,7 @@ It contains information about:
 - Daily total and new deaths due to Covid-19
 - Total vaccinations and number of people vaccinated
 
-I used SQL to query data, explore relationships between variables, and gain insights. I employed SQL Joins, CTEs, Temp Tables, Windows Functions, Aggregate Functions, and Views to understand:
+I used MySQL to query data, explore relationships between variables, and gain insights. I employed SQL Joins, CTEs, Temp Tables, Windows Functions, Aggregate Functions, & Views to understand:
 - The likelihood of dying from COVID-19 infection
 - The percentage of population affected by COVID-19 (total and by country)
 - Countries with the highest infection rate relative to their population
