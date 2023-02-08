@@ -1,7 +1,6 @@
 # Covid 19 - Data Exploration using MySQL & Visualization with Tableau
 
 The dataset I used for Covid-19 data analysis was taken from [Our World In Data](https://ourworldindata.org/explorers/coronavirus-data-explorer?zoomToSelection=true&time=2020-03-01..latest&country=USA~GBR~CAN~DEU~ITA~IND&region=World&pickerMetric=location&pickerSort=asc&Interval=7-day+rolling+average&Relative+to+Population=true&Metric=Confirmed+cases&Color+by+test+positivity=false). It contains data about:
-
 - Country code
 - Name of all countries
 - Population of countries; total and segmented by age
@@ -11,7 +10,6 @@ The dataset I used for Covid-19 data analysis was taken from [Our World In Data]
 - Total vaccinations and number of people vaccinated
 
 I used SQL to query data, explore relationships between variables, and gain insights. I employed SQL Joins, CTEs, Temp Tables, Windows Functions, Aggregate Functions, and Views to understand:
-
 - The likelihood of dying from COVID-19 infection
 - The percentage of population affected by COVID-19 (total and by country)
 - Countries with the highest infection rate relative to their population
@@ -25,9 +23,9 @@ After exploring the data, I used query results to create visualizations in Table
 - Percent Population Infected per Country
 - Percent of Population Infected & Forecast (Major countries)
 
-Find Tableau Visualization [here](https://public.tableau.com/app/profile/taha.elangovan/viz/Covid19DataBasicVisuals/Dashboard1)
+Find Tableau Visualization [here](https://public.tableau.com/app/profile/taha.elangovan/viz/Covid19DataBasicVisuals/Dashboard1).
 
 
---
+---
 
 
