@@ -11,7 +11,7 @@ Covid 19 data exploration study using MySQL & Visualization using Tableau to und
 - Percentage of population that has received at least one COVID-19 vaccine
 - Percentage of Population Infected & Forecast (Major countries) & some more..
 
-### [Nashville Housing - Data cleaning](https://github.com/tahakelan/Data_Analysis_Projects/blob/46203320698441a28390552bf43f6fdcc5c3634a/Data_cleaning_Nashville_Housing/Data%20Cleaning%20using%20SQL.sql) 
+### [Nashville Housing - Data cleaning](https://github.com/tahakelan/Data_Analysis_Projects/blob/ded49b52b7c8fc5ed9d8da6178390d357647470e/Data_cleaning_Nashville_Housing) 
 Practicing data cleaning using MySQL to:
 - Standardize non-uniform data
 - Split data to ensure ease of use 
