@@ -24,12 +24,17 @@ Practicing data cleaning using MySQL to:
 - Split data to ensure ease of use 
 - Handle NULL & Missing values
 - Remove duplicate data
-- Drop unwanted data\
+- Drop unwanted data
 
 by using SQL Joins, CTEs, Windows Functions & other functions.
 
 
 ## [Movies Dataset Correlation Study](https://github.com/tahakelan/Data_Analysis_Projects/blob/d2d1325b8918453d5081e33aafb2fdb14d94fb05/Movies_Correlation_Study)
+Dataset used here: Movie Industry from Kaggle. Python Libraries `pandas`, `numpy`, `seaborn` are used to perform Data Analysis & Visualization. 
+- Data cleaning
+- Finding correation between features
+- Visualizing the dependencies between variables
+
 
 ## [Data Analysis with Python Certification Projects from FreeCodeCamp](https://github.com/tahakelan/Data_Analysis_Projects/blob/46203320698441a28390552bf43f6fdcc5c3634a/Data_Analysis_with_Python_FreeCodeCamp)
 
