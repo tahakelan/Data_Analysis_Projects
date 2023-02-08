@@ -1,9 +1,7 @@
 # Covid 19 - Data Exploration using MySQL & Visualization with Tableau
 
 
-The dataset I used was taken from [Our World In Data](https://ourworldindata.org/explorers/coronavirus-data-explorer?zoomToSelection=true&time=2020-03-01..latest&country=USA~GBR~CAN~DEU~ITA~IND&region=World&pickerMetric=location&pickerSort=asc&Interval=7-day+rolling+average&Relative+to+Population=true&Metric=Confirmed+cases&Color+by+test+positivity=false). It contains information about confirmed cases, deaths, and other details from March 1, 2020 to the present.
-
-Data used here for analysis: 
+The dataset I used was taken from [Our World In Data](https://ourworldindata.org/explorers/coronavirus-data-explorer?zoomToSelection=true&time=2020-03-01..latest&country=USA~GBR~CAN~DEU~ITA~IND&region=World&pickerMetric=location&pickerSort=asc&Interval=7-day+rolling+average&Relative+to+Population=true&Metric=Confirmed+cases&Color+by+test+positivity=false). Data used here for analysis: 
 1. [Covid deaths data](https://github.com/tahakelan/Data_Analysis_Projects/blob/main/Covid19_Data_Study/covid_deathss.csv)
 2. [Covid Vaccinations data](https://github.com/tahakelan/Data_Analysis_Projects/blob/main/Covid19_Data_Study/CovidVaccinationss.csv)
 
