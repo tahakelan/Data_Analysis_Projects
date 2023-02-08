@@ -24,3 +24,10 @@ After exploring the data, I used query results to create visualizations in Table
 - Total Death per continent
 - Percent Population Infected per Country
 - Percent of Population Infected & Forecast (Major countries)
+
+Find Tableau Visualization [here](https://public.tableau.com/app/profile/taha.elangovan/viz/Covid19DataBasicVisuals/Dashboard1)
+
+
+--
+
+
