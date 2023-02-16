@@ -7,6 +7,12 @@ Complilation of SQL, Python, Tableau Projects & assignments completed in pursuit
 - [Movies Dataset - Correlation Study](#movies-dataset-correlation-study)
 - [Data Analysis with Python Certification Projects *from FreeCodeCamp*](#data-analysis-with-python-certification-projects-from-freecodecamp)
 
+### Tableau Projects
+Find Visualizations using Tableau [here](https://public.tableau.com/app/profile/taha.elangovan).
+
+### Power BI Projects
+- Survey Report Visualization. See it [here](https://app.powerbi.com/view?r=eyJrIjoiYWVkMGM4Y2QtNTIzMC00ZmVhLTgxNzctZTUwYWM4MzNiNDMwIiwidCI6IjgxYTA2YmIzLTA3YzItNDYyNS05ZDkwLTJkY2U1MTgwOThmMyJ9&pageName=ReportSection).
+
 ---
 
 ## [Covid 19 Data Analysis Study](https://github.com/tahakelan/Data_Analysis_Projects/blob/47e1172c54f2441f95e87476479f1cfbcc4d0443/Covid19_Data_Study)
